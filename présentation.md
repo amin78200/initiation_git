@@ -30,7 +30,7 @@ GIT COMMIT
 c'est la sauvegarde local de nos modifications (git commit-m ".....")  
 GIT BRANCH  
 utilisé tout seul pour travailler sur une partie du projet  
-GIT CHECKOUT   
+GIT CHECKOUT     
 permet de naviguer entre les branches  
 GIT MERGE  
 permet de fusionner notre branche avec la branche principale du projet (git merge amin)  
